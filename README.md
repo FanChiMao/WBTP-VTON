@@ -4,3 +4,4 @@ Paper: [pdf](https://ieeexplore.ieee.org/document/9603061)
 Video Presentation: https://youtu.be/Z7pu1OWh5BQ  
 Presentation Slides: [ppt](https://docs.google.com/presentation/d/1lIqj52-GAHFrm3VQDkXBu7k1AacJlklT/edit?usp=sharing&ouid=104762418693108298860&rtpof=true&sd=true)  
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=WBTP-VTON_github)  
